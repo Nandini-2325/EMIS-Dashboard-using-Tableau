@@ -65,4 +65,6 @@ The **Jobs & Industry Dashboard** enables:
 - Clear visualization of **industry performance over time**  
 
 This dashboard provides stakeholders with **data-driven insights** into employment trends, helping them track workforce shifts and make informed policy or investment decisions.  
+<img width="2147" height="804" alt="image" src="https://github.com/user-attachments/assets/ee755f3d-04dc-4895-b60d-caf6df445530" />
+
 [Link to my Report](https://public.tableau.com/shared/7485X7JH8?:display_count=n&:origin=viz_share_link)
